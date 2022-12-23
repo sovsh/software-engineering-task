@@ -11,3 +11,6 @@ def test_3():
 
 def test_4():
     assert fact(10) == 3628800
+
+def test_5():
+    assert fact(1) == 1
